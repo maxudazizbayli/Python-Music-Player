@@ -2,6 +2,11 @@
 Hello! It is my first project in Python.
 PMP(Python Music Player) - it is a programm for listening your music wich you add. PMP is absolutely free! Why Python? Because it is writed IN Python!
 
+HOW TO INSTALL:
+1.Download file
+2.Unzip file
+3.Put folder to disc C:\
+
 FAQ:
 
 1.How to add my music?
